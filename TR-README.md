@@ -1,7 +1,6 @@
 # Basit To-Do List Konsol Uygulaması (.NET 9)
 
-Bu proje, C# ve .NET 9 kullanılarak geliştirilmiş basit bir konsol tabanlı To-Do List (Yapılacaklar Listesi) uygulamasıdır. Kullanıcılar görev ekleyebilir, listeleyebilir, silebilir ve tamamlanan görevleri işaretleyebilir.
-Görevler JSON dosyasına kaydedilir ve program yeniden başlatıldığında yüklenir.
+Bu proje, C# ve .NET 9 kullanılarak geliştirilmiş basit bir konsol tabanlı To-Do List (Yapılacaklar Listesi) uygulamasıdır. Kullanıcılar görev ekleyebilir, listeleyebilir, silebilir ve tamamlanan görevleri işaretleyebilir. Görevler JSON dosyasına kaydedilir ve program yeniden başlatıldığında yüklenir.
 
 ## Özellikler
 
@@ -20,9 +19,7 @@ Görevler JSON dosyasına kaydedilir ve program yeniden başlatıldığında yü
 ## Kurulum ve Çalıştırma
 
 1. Projeyi klonlayın veya indirin.
-
 2. Terminal veya komut istemcisinde proje klasörüne gidin.
-
 3. Aşağıdaki komutla projeyi çalıştırın:
 
    ```bash
