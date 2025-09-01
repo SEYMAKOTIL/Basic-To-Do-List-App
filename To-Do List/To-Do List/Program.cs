@@ -8,7 +8,7 @@ namespace To_Do_List
     public class TaskItem
     {
         public int Id { get; set; }
-        public string Description { get; set; } = string.Empty; // Null ataması engellendi
+        public string Description { get; set; } = string.Empty;
         public bool IsCompleted { get; set; }
     }
 
@@ -172,3 +172,4 @@ namespace To_Do_List
         }
     }
 }
+
